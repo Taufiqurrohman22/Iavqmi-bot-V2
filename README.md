@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://telegra.ph/Unknown-11-01-2" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/c3481473441756b215305.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Yushino V3</h1>
+<h1 align="center">Iavqmi-Bot V2</h1>
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
